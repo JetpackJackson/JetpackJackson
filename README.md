@@ -1,3 +1,1 @@
-### Hi there 👋
-
-I have a Codeberg as well!
+My stuff is here: https://codeberg.org/JetpackJackson
